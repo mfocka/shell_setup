@@ -63,4 +63,5 @@ source ~/.zshrc
 ## Additional Notes
 - If you encounter any issues, make sure to check the documentation for Zsh, Oh My Zsh, and Powerlevel10k for troubleshooting.
 - Customize the configurations further based on your preferences.
+  
 Happy coding!
