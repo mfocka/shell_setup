@@ -1,6 +1,6 @@
 # Terminal Configuration Setup
 
-This repository contains configurations for a customized terminal setup using Zsh, Oh My Zsh, and the Powerlevel10k theme.
+This repository contains configurations for a customized terminal setup using Zsh, Oh My Zsh, and the Powerlevel10k theme. This documentation is only focused on the folder **"ubuntu"**.
 
 ## Getting Started
 
